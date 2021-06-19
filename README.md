@@ -1,6 +1,6 @@
 # ehyaa
 
-An app for abandond Sunan.
+An app for abandoned Sunan.
 
 ## Project Status
 
